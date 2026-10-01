@@ -1,0 +1,8 @@
+{
+  "name": "학식 노트 & 엑셀 평가기 (Campus Meal Tracker)",
+  "description": "학식당, 메뉴명, 가격 및 1~10점 평점을 기록하고 통계 분석과 엑셀(.xlsx) 파일로 내보낼 수 있는 학식 평가 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
